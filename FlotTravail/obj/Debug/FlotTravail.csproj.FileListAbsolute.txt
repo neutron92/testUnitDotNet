@@ -1,0 +1,7 @@
+C:\Users\hiche\source\repos\FlotTravail\FlotTravail\bin\Debug\FlotTravail.exe.config
+C:\Users\hiche\source\repos\FlotTravail\FlotTravail\bin\Debug\FlotTravail.exe
+C:\Users\hiche\source\repos\FlotTravail\FlotTravail\bin\Debug\FlotTravail.pdb
+C:\Users\hiche\source\repos\FlotTravail\FlotTravail\obj\Debug\FlotTravail.csproj.CoreCompileInputs.cache
+C:\Users\hiche\source\repos\FlotTravail\FlotTravail\obj\Debug\FlotTravail.exe
+C:\Users\hiche\source\repos\FlotTravail\FlotTravail\obj\Debug\FlotTravail.pdb
+C:\Users\hiche\source\repos\FlotTravail\FlotTravail\obj\Debug\FlotTravail.csprojAssemblyReference.cache
